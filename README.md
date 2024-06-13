@@ -36,9 +36,16 @@ This project is a comprehensive REST API for a Blog Application, built using Spr
    git clone https://github.com/Mayurchikmurge123/Blog-Application.git
    cd Blog-Application
    ```
-2.Update the application properties with your MySQL database configuration:
+2. Update the application properties with your MySQL database configuration:
    ```bash
    spring.datasource.url=jdbc:mysql://localhost:3306/blog_db
    spring.datasource.username=root
    spring.datasource.password=*******
    ```
+3. Build and run the application:
+   ```bash
+   mvn clean install
+   mvn spring-boot:run
+   ```
+       
+   
