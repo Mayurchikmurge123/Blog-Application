@@ -24,8 +24,8 @@ This project is a comprehensive REST API for a Blog Application, built using Spr
 
 ## Getting Started
 ### Prerequisites
-- Java 11 or higher
-- Maven or Gradle
+- Java SE 22.0.1
+- Maven 
 - MySQL database
 - Docker (optional for containerization)
 - AWS account (optional for deployment)
